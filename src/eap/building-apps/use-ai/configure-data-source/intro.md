@@ -23,7 +23,7 @@ You can configure and add external data sources, such as your internal knowledge
 Here’s some best practices for preparing the content for use with the AI model:
 
 * Use .md or .txt files. You can also use pdf files. 
-*[Process](https://learn.microsoft.com/en-us/azure/search/cognitive-search-concept-image-scenarios)  the images to make it searchable.
+*[Process](https://learn.microsoft.com/en-us/azure/search/cognitive-search-concept-image-scenarios)  the images to make them searchable.
 * Keep each file under a maximum size limit of 16 MB.
 * Aim for smaller files not only in size but also in content.
 * Divide content into chunks, aiming for approximately 2 to 3 pages per file.
